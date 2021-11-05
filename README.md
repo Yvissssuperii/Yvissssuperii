@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Yvissssuperii
-- 👀 I’m interested in big data
-- 🌱 I’m currently learning data structure and machine learning algorithms
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning
 - 📫 How to reach me yvisfu@gmail.com
 
 <!---
