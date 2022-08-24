@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yvissssuperii
+- 👋 Hi, I’m @Yvis
 - 👀 I’m interested in Machine Learning
 - 📫 How to reach me yvisfu@gmail.com
 
